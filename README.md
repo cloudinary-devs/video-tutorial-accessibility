@@ -167,8 +167,8 @@ tutorials/advanced-video
 ## 📖 API Documentation
 
 - [Cloudinary Upload API](https://cloudinary.com/documentation/image_upload_api_reference)
-- [Video Auto-Transcription](https://cloudinary.com/documentation/video_auto_transcription)
-- [Video Auto-Chaptering](https://cloudinary.com/documentation/video_auto_chaptering)
+- [Video Auto-Transcription](https://cloudinary.com/documentation/video_transcription)
+- [Video Auto-Chaptering](https://cloudinary.com/documentation/video_player_customization#video_chapters)
 
 ## 🤝 Contributing
 
