@@ -1,0 +1,20 @@
+{
+  "name": "video-tutorial-accessibility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cloudinary-video-ai-processing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "process": "node cloudinary-video-ai-processing.js",
+    "batch": "node batch-process-videos.js",
+    "batch-file": "node batch-process-videos.js --file=video-ids.txt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cloudinary": "^2.7.0",
+    "dotenv": "^17.2.0"
+  }
+}
