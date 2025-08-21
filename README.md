@@ -11,6 +11,7 @@ This project provides scripts to process videos using Cloudinary's AI features t
 ### Prerequisites
 - Node.js (v14 or higher)
 - Cloudinary account with API credentials
+- A subscription to the [Google Translation add-on](https://cloudinary.com/documentation/translation_addons), which you can try for free.
 
 ### Installation
 
